@@ -1,4 +1,4 @@
-# Capistrano::Mvn
+# Capistrano::Mvn [![Build Status](https://travis-ci.org/troydm/capistrano-mvn.png?branch=master)](https://travis-ci.org/troydm/capistrano-mvn)
 
 maven helper gem for deploying artifacts using capistrano v3
 
